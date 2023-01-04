@@ -1,8 +1,68 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ]
-}
+    "posts": [
+      {
+        "id": 2,
+        "title": "Learn DSA",
+        "author": "Salem"
+      },
+      {
+        "id": 1,
+        "title": "Learn Javascript",
+        "author": "Swanand"
+      },
+      {
+        "id": 3,
+        "title": "Learn React",
+        "author": "Salem"
+      },
+      {
+        "id": 4,
+        "title": "Learn mongo",
+        "author": "Salem"
+      },
+      {
+        "id": 5,
+        "title": "Learn Javascript",
+        "author": "Swanand"
+      },
+      {
+        "id": 6,
+        "title": "Learn React",
+        "author": "Salem"
+      },
+      {
+        "id": 7,
+        "title": "Learn DSA",
+        "author": "Salem"
+      },
+      {
+        "id": 8,
+        "title": "Learn Javascript",
+        "author": "Swanand"
+      },
+      {
+        "id": 9,
+        "title": "Learn React",
+        "author": "Salem"
+      },
+      {
+        "id": 10,
+        "title": "Learn DSA",
+        "author": "Salem"
+      },
+      {
+        "id": 11,
+        "title": "Learn Javascript",
+        "author": "Swanand"
+      },
+      {
+        "id": 12,
+        "title": "Learn React",
+        "author": "Salem"
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }
