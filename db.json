@@ -56,5 +56,72 @@
         "Description": "Tata Altroz with all original documents",
         "Price": 7888000
       }
-  ]
+  ],
+  "users": [
+    {
+      "email": "sbasumatas58@gmail.com",
+      "username": "salem",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "sbasumatas58@gmail.com",
+      "username": "sb",
+      "password": "12",
+      "id": 2
+    },
+    {
+      "email": "samirsaibo@gmail.com",
+      "username": "ss",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "email": "samirsaibo@gmail.com",
+      "username": "sss",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "samirsaibo@gmail.com",
+      "username": "aa",
+      "password": "12",
+      "confirm": "12",
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "title": "add",
+      "status": false,
+      "time": 1673077438772,
+      "id": 1
+    },
+    {
+      "title": "learn resct",
+      "status": false,
+      "time": 1673077793538,
+      "id": 2
+    },
+    {
+      "title": "yes",
+      "status": false,
+      "time": 1673078232147,
+      "id": 3
+    },
+    {
+      "title": "no",
+      "status": false,
+      "time": 1673078244644,
+      "id": 4
+    },
+    {
+      "title": "hi",
+      "status": false,
+      "time": 1673078292132,
+      "id": 5
+    }
+  ],
+  "login": []
+
 }
